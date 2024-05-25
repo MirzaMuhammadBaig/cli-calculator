@@ -1,0 +1,22 @@
+{
+  "name": "@blockchain-dev/cli-calculator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "author": "Muhammad",
+  "license": "MIT",
+  "keywords": [
+    "awesome"
+  ],
+  "description": "This is my first project which are deploying on npm",
+  "dependencies": {
+    "inquirer": "^9.2.10",
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^20.5.9",
+    "@types/typescript": "^2.0.0"
+  }
+}
