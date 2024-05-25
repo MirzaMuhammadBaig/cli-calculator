@@ -4,7 +4,10 @@ Created a simple command line calculator using [TypeScipt](https://www.typescrip
 
 Run the following command to experience this CLI calculator:
 
+        npm i @blockchain-dev/cli-calculator
         npx @blockchain-dev/cli-calculator
+
+[Show the result when above commands run](Screenshot.png)
 
 Now review the [source code](https://github.com/mirzamuhammadbaig/cli-calculator) for this cli calcualtor.
 
